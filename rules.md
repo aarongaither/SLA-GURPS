@@ -84,12 +84,15 @@ Reputation is checked as skill roll with CHA + rep rank.
 
 ## Turns
 
-All phases as mentioned in SLA are replaced with single homogenous turn order. Each character gets a number of actions (as described in SLA main) they can spend, based upon their DEX:
+- All phases as mentioned in SLA are replaced with single homogenous turn order.
+- Turn Order is determined by initiative.
+- Initiative is rolled at start of combat - 3d6 + init bonus (from Dex, see below).
+- Each character gets a number of actions (as described in SLA main) they can spend on their turn, based upon their DEX:
 
-| Dex     | Actions |
-|:-------:|:-------:|
-| 1 - 6   | 1       |
-| 7 - 10  | 2       |
-| 11 - 13 | 3       |
-| 14 - 15 | 4       |
-| 16+     | 5       |
+| Dex     | Actions / Init Bonus | 
+|:-------:|:---------------------|
+| 1 - 6   | 1                    |
+| 7 - 10  | 2                    |
+| 11 - 13 | 3                    |
+| 14 - 15 | 4                    |
+| 16+     | 5                    |
